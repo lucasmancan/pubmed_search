@@ -54,5 +54,3 @@ for article in all_articles:
         writer.writerows(all_articles)
 
 print("Arquivo salvo: "+ file_name)
-
-input("Pressione ENTER para continuar")
